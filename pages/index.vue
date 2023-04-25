@@ -15,8 +15,19 @@
           <button type="submit">Login</button>
         </div>
       </form>
+      <TableView/>
     </div>
   </template>
+
+  <script>
+import TableView from './TableView.vue'
+    export default{                    
+        name: 'Demo',
+        components: {
+        TableView
+        },
+    }
+</script>
   
   <style>
   .login-page {
