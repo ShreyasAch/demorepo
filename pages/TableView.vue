@@ -1,5 +1,6 @@
 <template>
     <div>
-        <p> this is a second page </p>
+        <p> This is updated today</p>
+        <p> this is shreyas acharya </p>
     </div>
 </template>
